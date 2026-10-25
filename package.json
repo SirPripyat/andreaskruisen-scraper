@@ -1,0 +1,21 @@
+{
+  "name": "andreaskruisen-scraper",
+  "version": "0.0.1",
+  "description": "Scraper de ratings de jogadores do site oficial da EA (EA SPORTS FC)",
+  "author": "",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "format": "biome format --write src",
+    "lint": "biome lint --write src",
+    "check": "biome check --write src"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.6.3",
+    "@types/node": "^20.3.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}

@@ -1,0 +1,15 @@
+# Node
+/node_modules
+/dist
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# dotenv environment variable files
+.env
+.env.local
+
+# OS
+.DS_Store
