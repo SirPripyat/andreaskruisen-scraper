@@ -1,0 +1,4186 @@
+[
+  {
+    "time": "Manchester United",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Manchester City",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Borussia Dortmund",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Valencia CF",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "AFC Bournemouth",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Como",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Arsenal",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Liverpool",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Paris Saint-Germain",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "FC Barcelona",
+    "formacao": "4-2-1-3"
+  },
+  {
+    "time": "Atlético Madrid",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Aston Villa",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Newcastle United",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Stade Rennais FC",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "FC Bayern München",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Real Madrid",
+    "formacao": "4-2-1-3"
+  },
+  {
+    "time": "Tottenham Hotspur",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Chelsea",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "West Ham United",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "VfB Stuttgart",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "AC Milan",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Leicester City",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Galatasaray SK",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Genoa",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Ajax",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Feyenoord",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "RB Leipzig",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "SC Freiburg",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Roma",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Juventus",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Wolverhampton Wanderers",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Rangers FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "SL Benfica",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "France",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "Fenerbahçe SK",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Eintracht Frankfurt",
+    "formacao": "4-2-2-2"
+  },
+  {
+    "time": "FC Augsburg",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Bolton Wanderers",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Fiorentina",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Borussia Mönchengladbach",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Leeds United",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "FC Schalke 04",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Lille OSC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Parma",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "AS Monaco",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Real Betis Balompié",
+    "formacao": "4-2-1-3"
+  },
+  {
+    "time": "RCD Espanyol",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Club Brugge KV",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Deportivo Alavés",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "Sint-Truidense VV",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "New York Red Bulls",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "Germany",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Bahia",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Italy",
+    "formacao": "4-3-2-1"
+  },
+  {
+    "time": "NEC Nijmegen",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "FC Twente",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Crystal Palace",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Dynamo Kyiv",
+    "formacao": "4-2-3-1 Fechado"
+  },
+  {
+    "time": "TSG 1899 Hoffenheim",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "1. FC Magdeburg",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Inter Miami",
+    "formacao": "4-3-1-2"
+  },
+  {
+    "time": "Cesena FC",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "Çorum FK",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Oud-Heverlee Leuven",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "CE Sabadell FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Go Ahead Eagles",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Philadelphia Union",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Al Nassr",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Shakhtar Donetsk",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "SPAL",
+    "formacao": "4-3-1-2"
+  },
+  {
+    "time": "New York City FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Vicenza",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Abha",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Virtus Entella",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Nashville SC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Blackburn Rovers",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Everton",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Middlesbrough",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Queens Park Rangers",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Bayer 04 Leverkusen",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "SV Werder Bremen",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Atalanta",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Lazio",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Torino",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Montpellier HSC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Nantes",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "RC Strasbourg Alsace",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Celtic",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Lincoln City",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "VfL Wolfsburg",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Olympique de Marseille",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Porto",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Sporting CP",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "PSV",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "LASK Linz",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Hajduk Split",
+    "formacao": "4-3-3 Ofensivo"
+  },
+  {
+    "time": "ESTAC Troyes",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Servette FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Morecambe",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Athletic Club",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "RC Celta",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "RCD Mallorca",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Real Sociedad",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Sevilla FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Málaga CF",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "SV Elversberg",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Al Hilal",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Chicago Fire",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC København",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Flamengo",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Czechia",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Sønderjyske Fodbold",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Modena",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Randers FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Portsmouth",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Watford",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Preston North End",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Toulouse FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Cagliari",
+    "formacao": "4-3-2-1"
+  },
+  {
+    "time": "Wisła Kraków",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Ferencvárosi Torna Club",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Boca Juniors",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "AZ Alkmaar",
+    "formacao": "4-2-1-3"
+  },
+  {
+    "time": "Luton Town",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Oldham Athletic",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Brentford",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Huddersfield Town",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Wrexham",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Avellino",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "FC Ingolstadt 04",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "SG Sonnenhof Großaspach",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Sydney FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Mantova",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Toronto FC",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Frosinone",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Monza",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Paris FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Sassuolo",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Benevento",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "SS Juve Stabia",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Cosenza",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Carrarese",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Atlanta United",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Cerro Porteño",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "FC Cincinnati",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Qarabağ FK",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Annecy",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "FC U Craiova 1948",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Amed SK",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Ternana",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "1. FC Schweinfurt 05",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Al Ittihad",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "KVC Westerlo",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "DC United",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "New England Revolution",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "LA Galaxy",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Rio Ave FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "SV Ried",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Shelbourne FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "BSC Young Boys",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Internacional",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Austria",
+    "formacao": "4-2-3-1 Fechado"
+  },
+  {
+    "time": "Croatia",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Belgium",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Greece",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "Türkiye",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Spain",
+    "formacao": "4-2-1-3"
+  },
+  {
+    "time": "Argentina",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Brazil",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Mexico",
+    "formacao": "4-3-3 Ofensivo"
+  },
+  {
+    "time": "United States",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "FC Midtjylland",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "Jeonbuk Hyundai Motors",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Le Havre AC",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Sheffield United",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Milton Keynes Dons",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "Coventry City",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "AS Saint-Étienne",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Alemannia Aachen",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "1. FC Union Berlin",
+    "formacao": "4-2-2-2"
+  },
+  {
+    "time": "Sampdoria",
+    "formacao": "4-3-2-1"
+  },
+  {
+    "time": "SSC Bari",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Levante UD",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "FC Lausanne-Sport",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Panathinaikos FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Gil Vicente FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Moreirense FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Utrecht",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Vitesse",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "SC Heerenveen",
+    "formacao": "4-2-1-3"
+  },
+  {
+    "time": "Wigan Athletic",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Plymouth Argyle",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Northampton Town",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Barnsley",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Wycombe Wanderers",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Notts County",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Cambridge United",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Hull City",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "Rochdale",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Swansea City",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Cardiff City",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "SC Paderborn 07",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Lyngby Boldklub",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Burton Albion",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Medipol Başakşehir FK",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Gençlerbirliği SK",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Atlético Nacional",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Girona FC",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "FCV Farul Constanța",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "SC Fortuna Köln",
+    "formacao": "4-1-2-1-2 Fechado"
+  },
+  {
+    "time": "FC Würzburger Kickers",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "FC St. Pauli",
+    "formacao": "4-1-2-1-2 Fechado"
+  },
+  {
+    "time": "Fortuna Düsseldorf",
+    "formacao": "4-1-2-1-2 Fechado"
+  },
+  {
+    "time": "SC Verl",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "TSG 1899 Hoffenheim II",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Reggiana",
+    "formacao": "4-3-2-1"
+  },
+  {
+    "time": "Cracovia",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Catanzaro",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Real Oviedo",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Calcio Padova",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Criciúma",
+    "formacao": "4-2-2-2"
+  },
+  {
+    "time": "Goiás",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Real Salt Lake",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "CF Montréal",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Nottingham Forest",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Southampton",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "1. FC Köln",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Hamburger SV",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Inter",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Udinese",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Napoli",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "AJ Auxerre",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "RC Lens",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "OGC Nice",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Hearts",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Charlton Athletic",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Birmingham City",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Ipswich Town",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Millwall FC",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "West Bromwich Albion",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Exeter City",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Fulham FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Energie Cottbus",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Hertha BSC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Brescia",
+    "formacao": "4-3-1-2"
+  },
+  {
+    "time": "1. FSV Mainz 05",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Bologna",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Pescara",
+    "formacao": "4-3-2-1"
+  },
+  {
+    "time": "FC Red Bull Salzburg",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Perugia",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Real Zaragoza",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "RC Deportivo de La Coruña",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Venezia",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "FK Austria Wien",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Brøndby IF",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Aarhus Gymnastikforening",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "AEK Athens",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Universitatea Craiova",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "Olympiacos FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Beşiktaş JK",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Lecce",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "PAOK",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "St Patrick's Athletic FC",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Helsingborgs IF",
+    "formacao": "4-5-1 Em linha"
+  },
+  {
+    "time": "Elche CF",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "CA Osasuna",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Villarreal CF",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Rayo Vallecano",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Botafogo",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Sligo Rovers",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Cruzeiro",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Chengdu Rongcheng",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "CD Eldense",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Wuhan Three Towns",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Deportivo Garcilaso",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Qingdao Hainiu FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Eyüpspor",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Bodrumspor",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Pendikspor",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "San Diego FC",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Unirea Slobozia",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Inter Kashi",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "AVS Futebol SAD",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Wieczysta Kraków",
+    "formacao": "4-3-3 Defensivo"
+  },
+  {
+    "time": "Rayo Zuliano",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Shenzhen Pengcheng",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "Qingdao West Coast FC",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "KFUM-Kameratene Oslo",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "Yunnan Yukun",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Auckland FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Al Kholood",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "San Antonio Bulo Bulo",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Deportivo Recoleta",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "NEOM SC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Liaoning Tieren FC",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "RAAL La Louvière",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Dalian Yingbo",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Gualberto Villarroel SJ",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Chindia Târgovişte",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "LPS HD Clinceni",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "Corvinul Hunedoara",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "IK Sirius",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Kristiansund BK",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Centro Sportivo Alagoano",
+    "formacao": "4-2-3-1 Fechado"
+  },
+  {
+    "time": "FC Tosno",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "FC Helsingør",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Guayaquil City",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "Varbergs BoIS",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "US Concarneau",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Técnico Universitario",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Ümraniyespor",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Dalkurd FF",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Degerfors IF",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Salford City",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "AS Béziers",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Pordenone",
+    "formacao": "4-3-1-2"
+  },
+  {
+    "time": "UD Ibiza",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Stal Mielec",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Western United",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Plaza Colonia",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Al-Ain",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "FC Hermannstadt",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "Austin FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Jamshedpur FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Raków Częstochowa",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Puszcza Niepołomice",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Türkgücü München",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Casa Pia",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Sport Huancayo",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Ayacucho",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Metaloglobus București",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Csíkszereda Miercurea Ciuc",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "AS FC Buzău",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Andorra",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Always Ready",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Club River Plate",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Royal Pari",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Delfín SC",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "Macará",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Universidad Católica del Ecuador",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Atlético Grau",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Deportivo Binacional",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Guabirá",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Macarthur FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Academia Puerto Cabello",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Universidad Técnica de Cajamarca",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Mushuc Runa",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Carlos A. Mannucci",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "Llaneros de Guanare",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Meizhou Hakka",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Guaireña FC",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Mazatlán FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Stade Lausanne-Ouchy",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "Punjab FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Palmaflor del Trópico",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Estudiantes de Río Cuarto",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "9 de Octubre",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Deportivo Riestra",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "FK Jerv",
+    "formacao": "5-2-3"
+  },
+  {
+    "time": "Real Tomayapo",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Independiente Petrolero",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Rentistas",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Cuiabá",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Cerro Largo",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Inter de Barinas",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Universidad Central de Venezuela",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "FC Viktoria 1889 Berlin",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "General Bernardino Caballero",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Al Najma SC",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Asociación Deportiva Tarma",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "Universitario de Vinto",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Sportivo Ameliano",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Sportivo Trinidense",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Deportivo Pereira",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Bromley",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Tokushima Vortis",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Uniautónoma FC",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Famalicão",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Fortaleza CEIF",
+    "formacao": "4-1-2-1-2 Fechado"
+  },
+  {
+    "time": "Vegalta Sendai",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "Astra Giurgiu",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Deportivo La Guaira",
+    "formacao": "4-3-3 Ofensivo"
+  },
+  {
+    "time": "Boston River",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Al Khaleej",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Balıkesirspor",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Unió Esportiva Costa Brava",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "Jaguares de Córdoba",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Temperley",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Albirex Niigata",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Independiente del Valle",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Crucero del Norte",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Zamora Fútbol Club",
+    "formacao": "4-4-1-1 Ofensivo"
+  },
+  {
+    "time": "Metropolitanos FC",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Aragua FC",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Nueva Chicago",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Cortuluá",
+    "formacao": "4-2-2-2"
+  },
+  {
+    "time": "Qingdao FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Tigres FC",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Central Cordoba SdE",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Leones FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Hebei FC",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Guizhou FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Tianjin Tianhai FC",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "Cangzhou Mighty Lions FC",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "Nantong Zhiyun",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Atlético Bucaramanga",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Al Batin",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Los Angeles FC",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "St. Louis CITY SC",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Universidad César Vallejo",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Al Riyadh",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "NorthEast United",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Barracas Central",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Gimnasia y Esgrima de Mendoza",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "Al Okhdood",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Al Fayha",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "FC Juárez",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Alanyaspor",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "Montevideo City Torque",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Mohun Bagan Super Giant",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Sagan Tosu",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "Matsumoto Yamaga",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "Sanfrecce Hiroshima",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Östersunds FK",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Shonan Bellmare",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "Ventforet Kofu",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "FC Voluntari",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "FC Viitorul",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "Oita Trinita",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Avispa Fukuoka",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Yokohama FC",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "UCAM Murcia CF",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Damac FC",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Ohod Club",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Al Hazem FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Al Diriyah",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Yeni Malatyaspor",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Odisha FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "FC Goa",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Chennaiyin FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Kerala Blasters FC",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Mumbai City FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "SC Delhi",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Bengaluru FC",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Al Adalah FC",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "SD Amorebieta",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Sepsi OSK",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Najran SC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Hajer",
+    "formacao": "4-5-1 Em linha"
+  },
+  {
+    "time": "CS Mioveni",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Al Wehda",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Pro Vercelli 1892",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "Al Shoalah",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Carpi",
+    "formacao": "4-4-1-1 Ofensivo"
+  },
+  {
+    "time": "Mjøndalen IF",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Trapani",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "FC Vestsjælland",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Hobro",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Western Sydney Wanderers",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Guangzhou City",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "Consadole Sapporo",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "V-Varen Nagasaki",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "Red Bull Bragantino",
+    "formacao": "4-2-1-3"
+  },
+  {
+    "time": "Chapecoense",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "Latina",
+    "formacao": "3-4-3"
+  },
+  {
+    "time": "Südtirol",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Miedź Legnica",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "FeralpiSalò",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Sandecja Nowy Sącz",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Bruk-Bet Termalica Nieciecza",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "Warta Poznań",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "Zawisza Bydgoszcz",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Arouca",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "CD Tondela",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "CF União",
+    "formacao": "4-3-3 Ofensivo"
+  },
+  {
+    "time": "La Equidad",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Deportes Quindío",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Envigado",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Patriotas Boyacá",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Atlético Huila",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Deportes Iquique",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "CD Universidad de Concepción",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "CD Antofagasta",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Unión La Calera",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Shanghai Port",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "Beijing Renhe",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Wuhan Yangtze River FC",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "CA Bastia",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Quevilly Rouen Métropole",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Bucheon 1995",
+    "formacao": "5-2-3"
+  },
+  {
+    "time": "FC Anyang",
+    "formacao": "5-2-3"
+  },
+  {
+    "time": "Suwon FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Al Tai",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Alianza FC",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Águilas Doradas",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "CD Everton de Viña del Mar",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "CD Ñublense",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "San Marcos de Arica",
+    "formacao": "4-3-3 Ofensivo"
+  },
+  {
+    "time": "Academico Viseu",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Orlando City SC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Racing Club de Montevideo",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "FC Chambly Oise",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Buriram United",
+    "formacao": "5-2-1-2"
+  },
+  {
+    "time": "Gaz Metan Mediaş",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Curicó Unido",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "Nacional Potosí",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Cusco FC",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "San Luis de Quillota",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Talleres",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Nacional Asunción",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Al Orobah FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Atlético de San Luis",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Al Nahda",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Jaguares FC",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Platense",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "RFC Seraing",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "AC Barnechea",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Coquimbo Unido",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Magallanes",
+    "formacao": "4-3-3 Ofensivo"
+  },
+  {
+    "time": "Deportes Temuco",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Unión Magdalena",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Club Atlético Sarmiento",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Cobh Ramblers",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Athlone Town",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Ljungskile SK",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Wexford FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Sporting Fingal",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Mirassol",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Avaí FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "CD Trofense",
+    "formacao": "4-2-3-1 Fechado"
+  },
+  {
+    "time": "Bohemians Praha",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Eskişehirspor",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Cittadella",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "AC Arlésien",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "América Mineiro",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Boyacá Chicó FC",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "SS Virtus Lanciano",
+    "formacao": "4-3-2-1"
+  },
+  {
+    "time": "Curacao",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Haiti",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "SV Grödig",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Grêmio Barueri",
+    "formacao": "4-2-3-1 Fechado"
+  },
+  {
+    "time": "Mjällby AIF",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "SKN St. Pölten",
+    "formacao": "5-2-3"
+  },
+  {
+    "time": "Sol de América",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Northern Fury FC",
+    "formacao": "4-3-2-1"
+  },
+  {
+    "time": "Gold Coast United",
+    "formacao": "5-2-3"
+  },
+  {
+    "time": "Nagoya Grampus",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "Al Ettifaq",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Gamba Osaka",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Club Atlético Juventud",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Gallipoli",
+    "formacao": "3-5-2"
+  },
+  {
+    "time": "Rangers de Talca",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "CD O'Higgins",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Atlético Clube Goianiense",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Gangwon FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Giresunspor",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Kardemir Karabükspor",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "IFK Värnamo",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "Jiangsu FC",
+    "formacao": "4-3-3 Ofensivo"
+  },
+  {
+    "time": "Jönköpings Södra IF",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Zhejiang FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Chongqing Dangdai Lifan",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Falkenbergs FF",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "AFC Eskilstuna",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "Västerås SK",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "Club Atlético River Plate",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Sarpsborg 08 FF",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Ranheim Fotball",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "FC Volga Nizhny Novgorod",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Krasnodar",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Harrogate Town",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Novara",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Melbourne City FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Portogruaro Calcio ASD",
+    "formacao": "4-1-2-1-2 Aberto"
+  },
+  {
+    "time": "Bucaspor",
+    "formacao": "4-4-1-1 Ofensivo"
+  },
+  {
+    "time": "FK Ústí nad Labem",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "FC Hradec Králové",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Varese",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Newport County",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Gwangju FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "AFC Wimbledon",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Fleetwood Town",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "Syrianska",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "US Orléans Loiret Football",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Orenburg",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Gubbio",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Omiya Ardija",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "ASG Nocerina",
+    "formacao": "3-4-3"
+  },
+  {
+    "time": "Ludogorets",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Sandnes Ulf",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "Dalian Professional",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "Al Ahli SFC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Al Faisaly",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Al Fateh",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Al Qadsiah FC",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Al Raed",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Al Taawoun FC",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "Central Coast Mariners",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Melbourne Victory",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Newcastle Jets",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Perth Glory",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "Polonia Bytom",
+    "formacao": "4-2-3-1 Fechado"
+  },
+  {
+    "time": "Rimini",
+    "formacao": "4-2-3-1 Fechado"
+  },
+  {
+    "time": "Cremonese",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Algeria",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Bolivia",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Canada",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Cabo Verde",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Chile",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Ghana",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Ecuador",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "India",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Panama",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "New Zealand",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Uzbekistan",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Grosseto",
+    "formacao": "4-3-1-2"
+  },
+  {
+    "time": "Venezuela",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Vietnam",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "Iraq",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Jordan",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Indonesia",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "Qatar",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Vizela",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "SC Olhanense",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Congo DR",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Royal Excel Mouscron",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Urawa Red Diamonds",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "GAIS",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "East Bengal FC",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "Gyeongnam FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Mohammedan SC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Leones Negros UdeG",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Rodez Aveyron Football",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Indios de Ciudad Juárez",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Al Shabab",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Vendsyssel FF",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "América de Natal",
+    "formacao": "4-2-3-1 Fechado"
+  },
+  {
+    "time": "Tijuana",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Al Ain",
+    "formacao": "5-2-1-2"
+  },
+  {
+    "time": "IF Brommapojkarna",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Godoy Cruz",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "CA Aldosivi",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Defensa y Justicia",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Atlético Tucumán",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Huracán",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Club Atlético San Martín",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "San Martín de Tucumán",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Tigre",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Club Atlético Unión",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "All Boys",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "SK Kladno",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Cúcuta Deportivo",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Deportes Tolima",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Deportivo Pasto",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Shandong Taishan",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Kawasaki Frontale",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Wellington Phoenix",
+    "formacao": "4-2-2-2"
+  },
+  {
+    "time": "Beijing Guoan",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Shenzhen FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Changchun Yatai",
+    "formacao": "5-2-3"
+  },
+  {
+    "time": "Tianjin Jinmen Tiger",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Ravenna",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Henan FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Granada 74 CF",
+    "formacao": "4-4-1-1 Ofensivo"
+  },
+  {
+    "time": "Bohemians 1905",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Admira Wacker",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Wolfsberger AC",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Åtvidabergs FF",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "CD Guadalajara",
+    "formacao": "4-4-1-1 Ofensivo"
+  },
+  {
+    "time": "Guangzhou FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Ipatinga",
+    "formacao": "4-2-2-2"
+  },
+  {
+    "time": "San Jose Earthquakes",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Cienciano",
+    "formacao": "4-3-3 Ofensivo"
+  },
+  {
+    "time": "Alianza Atlético",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Sporting Cristal",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Universitario de Deportes",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "Sport Boys",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Argentinos Juniors",
+    "formacao": "4-3-1-2"
+  },
+  {
+    "time": "Independiente Rivadavia",
+    "formacao": "4-3-1-2"
+  },
+  {
+    "time": "Belgrano de Córdoba",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Dorados de Sinaloa",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Lobos BUAP",
+    "formacao": "4-3-3 Ofensivo"
+  },
+  {
+    "time": "Juventude",
+    "formacao": "4-2-2-2"
+  },
+  {
+    "time": "Ponte Preta",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Coritiba",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Figueirense",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Paraná",
+    "formacao": "4-2-3-1 Fechado"
+  },
+  {
+    "time": "Guarani",
+    "formacao": "4-1-2-1-2 Aberto"
+  },
+  {
+    "time": "Náutico",
+    "formacao": "4-1-2-1-2 Fechado"
+  },
+  {
+    "time": "Fortaleza",
+    "formacao": "4-2-2-2"
+  },
+  {
+    "time": "Joinville",
+    "formacao": "4-2-2-2"
+  },
+  {
+    "time": "Sport Club do Recife",
+    "formacao": "4-2-3-1 Fechado"
+  },
+  {
+    "time": "Santa Cruz",
+    "formacao": "4-2-3-1 Fechado"
+  },
+  {
+    "time": "Chivas USA",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Ceará Sporting Club",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Arka Gdynia",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "ŁKS Łódź",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Korona Kielce",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Piast Gliwice",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "TS Podbeskidzie Bielsko-Biała",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Radomiak Radom",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Zagłębie Sosnowiec",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Lechia Gdańsk",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Śląsk Wrocław",
+    "formacao": "3-5-2"
+  },
+  {
+    "time": "Motor Lublin",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "South Africa",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Peru",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Colombia",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Morocco",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Côte d'Ivoire",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Saudi Arabia",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Iran",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Fatih Karagümrük",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Egypt",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Finn Harps",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "UCD",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Minnesota United FC",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "Portland Timbers",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Seattle Sounders FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Gretna",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "1. FC Heidenheim 1846",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "FC Ural Yekaterinburg",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Sibir Novosibirsk",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Thonon Évian",
+    "formacao": "4-3-2-1"
+  },
+  {
+    "time": "Red Star FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "USL Dunkerque",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Gefle IF",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Limerick FC",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Portuguesa",
+    "formacao": "4-1-2-1-2 Aberto"
+  },
+  {
+    "time": "Santo André",
+    "formacao": "4-2-2-2"
+  },
+  {
+    "time": "Club Nacional de Football",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Liverpool FC Uruguay",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "CD Huachipato",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "CD Palestino",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Guaraní",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "El Nacional",
+    "formacao": "4-1-2-1-2 Aberto"
+  },
+  {
+    "time": "Estudiantes de Mérida",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FBC Melgar",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Kasımpaşa SK",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Akhisar Belediyespor",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "1. Wiener Neustädter SC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FK Baník Most 1909",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "US Boulogne Cote d'Opale",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Vannes Olympique Club",
+    "formacao": "4-2-2-2"
+  },
+  {
+    "time": "Almere City FC",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Adelaide United",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Brisbane Roar",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "SC Freiburg II",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "SV Werder Bremen II",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "VfB Stuttgart II",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Sportfreunde Lotte",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Athletic Club B",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Barcelona B",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Real Madrid Castilla",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Real Sociedad de Fútbol B",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Sevilla Atlético",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "RC Celta Fortuna",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Blau-Weiß Linz",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "KV Mechelen",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Crotone",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Pisa",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Spezia",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "GKS Bełchatów",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Jagiellonia Białystok",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Pogoń Szczecin",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Zagłębie Lubin",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "UTA Arad",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Universitatea Cluj",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Botoşani",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Arsenal Tula",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Incheon United FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "FC Sion",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Hacettepe SK",
+    "formacao": "4-1-2-1-2 Aberto"
+  },
+  {
+    "time": "Gaziantep FK",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Tecos FC",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "León",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Sutton United",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "CSM Politehnica Iași",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "CFR Cluj",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "FC Ufa",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "CD Lugo",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Granada CF",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "CD Alcoyano",
+    "formacao": "4-4-1-1 Ofensivo"
+  },
+  {
+    "time": "SD Huesca",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "CF Reus Deportiu",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Crawley Town",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Villarreal CF B",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Arezzo",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Foggia",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "Waasland-Beveren",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Kaizer Chiefs",
+    "formacao": "4-3-3 Ofensivo"
+  },
+  {
+    "time": "Orlando Pirates",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "Mamelodi Sundowns FC",
+    "formacao": "4-2-3-1 Fechado"
+  },
+  {
+    "time": "Instituto Atlético Central Córdoba",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "Shanghai Shenhua",
+    "formacao": "4-3-1-2"
+  },
+  {
+    "time": "Blooming",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Bolívar",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Oriente Petrolero",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "The Strongest",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "CD Jorge Wilstermann",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Universidad Católica",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Santiago Wanderers",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Unión Española",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "CD Cobresal",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "CD Cobreloa",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "Colo-Colo",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Barcelona de Guayaquil",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Deportivo Cuenca",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Emelec",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "LDU Quito",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "SD Aucas",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "Caracas FC",
+    "formacao": "4-3-3 Ofensivo"
+  },
+  {
+    "time": "Deportivo Táchira",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Carabobo FC",
+    "formacao": "4-3-3 Ofensivo"
+  },
+  {
+    "time": "AC Mineros de Guayana",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Danubio FC",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "Montevideo Wanderers FC",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "Monagas SC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "CA Fénix",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Tacuary FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Sportivo Luqueño",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "12 de Octubre FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Oțelul Galați",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Asociația Clubul Sportiv Petrolul 52",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Northern Ireland",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "Serbia",
+    "formacao": "4-1-2-1-2 Aberto"
+  },
+  {
+    "time": "FC Kuban Krasnodar",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Independiente",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "SKA Khabarovsk",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "Spartak Nalchik",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Mordovia Saransk",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Akhmat Grozny",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Santos Laguna",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "CD Veracruz",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Pachuca",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "San Luis",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Querétaro",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Puebla FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "SSV Ulm 1846",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "SV Sandhausen",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "SpVgg Bayreuth",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "GKS Katowice",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Saturn Ramenskoye",
+    "formacao": "4-4-1-1 Ofensivo"
+  },
+  {
+    "time": "Rubin Kazan",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "FC Moscow",
+    "formacao": "4-2-3-1 Fechado"
+  },
+  {
+    "time": "Alaniya",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "FC Rostov",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "FC Tom Tomsk",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "FC Amkar Perm",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "FC Khimki",
+    "formacao": "4-4-1-1 Ofensivo"
+  },
+  {
+    "time": "Racing de Ferrol",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Accrington Stanley",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Royale Union Tubize-Braine",
+    "formacao": "4-4-1-1 Ofensivo"
+  },
+  {
+    "time": "FC Libourne",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "GFC Ajaccio",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Pau FC",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Catania",
+    "formacao": "4-3-1-2"
+  },
+  {
+    "time": "Tours FC",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "US Salernitana 1919",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Atlético de Rafaela",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Arsenal de Sarandi",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Lanús",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Olimpo",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "Newell's Old Boys",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Adanaspor",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "CA Banfield",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Chacarita Juniors",
+    "formacao": "4-4-1-1 Meio-campo"
+  },
+  {
+    "time": "Colón",
+    "formacao": "5-2-1-2"
+  },
+  {
+    "time": "Baník Ostrava",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "Valenciennes FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Viktoria Žižkov",
+    "formacao": "4-1-2-1-2 Aberto"
+  },
+  {
+    "time": "FC Zbrojovka Brno",
+    "formacao": "4-1-2-1-2 Aberto"
+  },
+  {
+    "time": "FC Zlín",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Viktoria Plzeň",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "SK Dynamo České Budějovice",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Mladá Boleslav",
+    "formacao": "4-1-2-1-2 Aberto"
+  },
+  {
+    "time": "Hallescher FC",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Eintracht Braunschweig",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "SV Darmstadt 98",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "TuS Koblenz",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "SV Waldhof Mannheim",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Quilmes Atlético Club",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Górnik Łęczna",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Football Bourg-en-Bresse Péronnas 01",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Dijon FCO",
+    "formacao": "4-1-2-1-2 Fechado"
+  },
+  {
+    "time": "Rosario Central",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "VfB Oldenburg",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Patronato",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Carl Zeiss Jena",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FSV Zwickau",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "FSV Frankfurt",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "SV Meppen",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Viktoria Köln",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Borussia Dortmund II",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "TSV Havelse",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Bayern München II",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Hannover 96 II",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Rot-Weiß Erfurt",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Dordrecht",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Emmen",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Heracles Almelo",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Telstar",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Sparta Rotterdam",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "VVV-Venlo",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Associação Naval 1893",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "FC Penafiel",
+    "formacao": "4-3-3 Ofensivo"
+  },
+  {
+    "time": "Dinamo Bucureşti",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "FC Argeș",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "FCSB",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "PFC Krylia Sovetov Samara",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "FC Lokomotiv",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Anzhi Makhachkala",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Spartak Moscow",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Torpedo Moscow",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Zenit",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "St Johnstone FC",
+    "formacao": "4-2-3-1 Fechado"
+  },
+  {
+    "time": "St. Mirren",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "AD Alcorcón",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Cartagena",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "CD Castellón",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "Hércules CF",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Real Unión Club",
+    "formacao": "5-2-2-1"
+  },
+  {
+    "time": "CD Leganés",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "UD Vecindario",
+    "formacao": "4-1-2-1-2 Aberto"
+  },
+  {
+    "time": "Altay",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "FC Schaffhausen",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "MKE Ankaragücü",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Sincan Belediyesi Ankaraspor",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Adana Demirspor",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Diyarbakirspor",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Kayserispor",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Gaziantepspor",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Göztepe SK",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Hatayspor",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Kocaelispor",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Konyaspor",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Manisaspor",
+    "formacao": "4-1-2-1-2 Aberto"
+  },
+  {
+    "time": "Mersin İdman yurdu",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Çaykur Rizespor",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Sivasspor",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Estudiantes de La Plata",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Gimnasia y Esgrima La Plata",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Racing Club",
+    "formacao": "4-1-3-2"
+  },
+  {
+    "time": "Vélez Sarsfield",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Audax Italiano",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "América de Cali",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Junior FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Deportivo Cali",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Independiente Medellín",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Independiente Santa Fe",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Millonarios FC",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Once Caldas",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Club Olimpia",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Defensor Sporting",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Peñarol",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Vancouver Whitecaps FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Atlas FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Atlante",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Necaxa",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Júbilo Iwata",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Kashiwa Reysol",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "Vissel Kobe",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Kashima Antlers",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "Cerezo Osaka",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "Shimizu S-Pulse",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "FC Tokyo",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Yokohama F. Marinos",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Bosnia and Herzegovina",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Netherlands",
+    "formacao": "4-2-1-3"
+  },
+  {
+    "time": "CF Fuenlabrada",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Rayo Majadahonda",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "CD Mirandés",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "SC Beira-Mar",
+    "formacao": "4-3-3 Ofensivo"
+  },
+  {
+    "time": "Boavista FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Associação Académica de Coimbra",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Roda JC Kerkrade",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "NAC Breda",
+    "formacao": "5-2-1-2"
+  },
+  {
+    "time": "RKC Waalwijk",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Willem II",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "PEC Zwolle",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Groningen",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Bristol City",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Chesterfield",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Blackpool FC",
+    "formacao": "4-1-3-2"
+  },
+  {
+    "time": "Port Vale",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Stockport County",
+    "formacao": "3-4-3 Em linha"
+  },
+  {
+    "time": "Swindon Town",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Colchester United",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Cheltenham Town",
+    "formacao": "4-1-4-1"
+  },
+  {
+    "time": "Peterborough United",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Mansfield Town",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "Hartlepool United",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Bury",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Torquay United",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "York City",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Scunthorpe United",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Kickers Offenbach",
+    "formacao": "4-1-2-1-2 Aberto"
+  },
+  {
+    "time": "Oxford United",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Southend United",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Darlington",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Leyton Orient",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Macclesfield Town",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Bristol Rovers",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Boston United",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "Cádiz CF",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Tigres UANL",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Excelsior",
+    "formacao": "5-2-3"
+  },
+  {
+    "time": "Hvidovre IF",
+    "formacao": "4-3-3 Em linha"
+  },
+  {
+    "time": "KSC Lokeren Oost-Vlaanderen",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "AS Eupen",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Union Saint-Gilloise",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Grazer AK 1902",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "TSV Hartberg",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Treviso",
+    "formacao": "4-4-1-1 Ofensivo"
+  },
+  {
+    "time": "SD Ponferradina",
+    "formacao": "4-4-2 Conservador"
+  },
+  {
+    "time": "Lorca FC",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "Fredrikstad FK",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "UC AlbinoLeffe",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "FC Wacker Innsbruck",
+    "formacao": "5-4-1 Losango"
+  },
+  {
+    "time": "Gimcheon Sangmu FC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "CAP Ciudad de Murcia",
+    "formacao": "4-4-1-1 Ofensivo"
+  },
+  {
+    "time": "Daegu FC",
+    "formacao": "5-4-1 Em linha"
+  },
+  {
+    "time": "Leixões SC",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "CD Feirense",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "RWD Molenbeek",
+    "formacao": "4-5-1 Em linha"
+  },
+  {
+    "time": "FC La Chaux-de-Fonds",
+    "formacao": "4-1-2-1-2 Aberto"
+  },
+  {
+    "time": "Portimonense SC",
+    "formacao": "4-3-3 Ofensivo"
+  },
+  {
+    "time": "GD Estoril Praia",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "FC Lugano",
+    "formacao": "5-3-2 Conservador"
+  },
+  {
+    "time": "Burgos CF",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "SV Zulte Waregem",
+    "formacao": "4-3-3 Conservador"
+  },
+  {
+    "time": "Fredericia",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "SC Rheindorf Altach",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "Kapfenberger SV",
+    "formacao": "4-2-3-1 Fechado"
+  },
+  {
+    "time": "Gimnàstic de Tarragona",
+    "formacao": "3-1-4-2"
+  },
+  {
+    "time": "Cultural Leonesa",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Universidad de Chile",
+    "formacao": "3-4-1-2"
+  },
+  {
+    "time": "Tranmere Rovers",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "WSG Tirol",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "KV Kortrijk",
+    "formacao": "3-4-2-1"
+  },
+  {
+    "time": "FK Jablonec",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "APOEL FC",
+    "formacao": "4-2-3-1 Aberto"
+  },
+  {
+    "time": "Slovan Liberec",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "FK Příbram",
+    "formacao": "4-1-2-1-2 Aberto"
+  },
+  {
+    "time": "1.FC Slovácko",
+    "formacao": "4-4-2 Em linha"
+  },
+  {
+    "time": "HJK Helsinki",
+    "formacao": "4-3-3 Em linha"
+  }
+]

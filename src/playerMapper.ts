@@ -19,7 +19,7 @@ export const toPlayerRating = (item: EaRatingsApiItem): PlayerRating => ({
   position: item.position?.label ?? '',
   positionShort: item.position?.shortLabel ?? '',
   alternatePositions: (item.alternatePositions ?? []).map((p) => p.shortLabel),
-  photoUrl: item.avatarUrl ?? '',
+  photoUrl: `https://ratings-images-prod.pulse.ea.com/FC27/components/players/p${item.id}.webp`,
   cardShieldUrl: item.shieldUrl ?? '',
   team: item.team?.label ?? '',
   teamCrestUrl: item.team?.imageUrl ?? '',
